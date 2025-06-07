@@ -12,6 +12,7 @@ matplotlib, seaborn – Visualizations
 Jupyter Notebook – Interactive analysis
 
 🔍 What I Did
+
 Performed Exploratory Data Analysis (EDA)
 
 Analyzed churn patterns, spending behavior, payment preferences, and product trends
@@ -27,6 +28,7 @@ Executed Cohort Analysis
 Tracked retention of customers across monthly cohorts to evaluate long-term engagement
 
 ✅ What I Achieved
+
 Identified key revenue-driving customer segments
 
 Revealed that churn rates varied by product category and gender
