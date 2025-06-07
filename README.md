@@ -1,8 +1,9 @@
 # Customer_Kee_Soch
 
-This project focuses on uncovering key patterns in customer behavior using an e-commerce dataset. The goal is to drive actionable insights for retention strategies, and revenue optimization through exploratory data analysis, RFM segmentation, and cohort analysis.
+This project aims to identify key patterns in customer behavior using an e-commerce dataset. The goal is to drive actionable insights for retention strategies and revenue optimization through exploratory data analysis, RFM segmentation, and cohort analysis.
 
 🛠 Tools & Technologies Used
+
 Python
 
 pandas, numpy – Data manipulation and aggregation
